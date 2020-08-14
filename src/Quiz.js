@@ -5,7 +5,9 @@ class Quiz extends Component{
     constructor(props)
     {
         super(props);
-        this.state = {quiz_postion:1}
+        this.state = {
+            quiz_postion:1
+        }
     }
 
 
